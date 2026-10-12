@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Banteab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Banteab/Banteab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in transit & mobility tech, multi-agent AI workflows, and cloud architecture (Docker, Kubernetes, PostgreSQL)
+- 🌱 I’m currently learning advanced LLM orchestration, containerized microservices scaling, and automated document generation engines
+- 💞️ I’m looking to collaborate on public transport aggregators, digital freight platforms, and intelligent logistics automation
+- 📫 How to reach me through @Banteab 
